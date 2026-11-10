@@ -1,4 +1,4 @@
 ﻿# churn-customer
- py -m pip install -r requirements.txt
- py -m streamlit run app.py
+ py -m pip install -r requirements.txt <br>
+ py -m streamlit run app.py <br>
 # churn-customer
