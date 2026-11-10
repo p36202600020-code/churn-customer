@@ -1,0 +1,90 @@
+{
+  "project": "Churn Industri Gas Alam — Training Utama One-Hot segment + contract_status dan SMOTE-Tomek",
+  "dataset_sheet": "Master Customer Data",
+  "total_rows": 1806,
+  "trained_rows": 1155,
+  "training_rows": 1155,
+  "validation_rows": 289,
+  "test_rows": 362,
+  "selected_model": "XGBoost",
+  "selection_metric": "Accuracy validation dengan batas minimum recall churn",
+  "selection_auc": 0.9995386389850057,
+  "selection_validation_accuracy": 0.9896193771626297,
+  "target_accuracy_aspirational": 0.85,
+  "accuracy_target_achieved_on_test": true,
+  "test_auc_selected_model": 0.9973835495283019,
+  "test_accuracy_selected_model": 0.9640883977900553,
+  "test_recall_churn_selected_model": 0.8962264150943396,
+  "decision_threshold": 0.32,
+  "risk_policy": "binary_same_as_decision_threshold",
+  "risk_labels": [
+    "HIGH RISK",
+    "LOW RISK"
+  ],
+  "all_model_thresholds": {
+    "Random Forest": 0.44,
+    "XGBoost": 0.32,
+    "Hybrid Voting": 0.33
+  },
+  "feature_columns": [
+    "tenure_month",
+    "avg_usage_m3_6m",
+    "bill_avg_6m",
+    "bill_shock_pct",
+    "late_payment_6m",
+    "complaint_3m",
+    "resolution_days_avg",
+    "complaint_per_year",
+    "late_payment_per_year",
+    "bill_shock_x_declining",
+    "segment",
+    "contract_status",
+    "usage_trend",
+    "has_competitor",
+    "City",
+    "State/Prov"
+  ],
+  "numeric_features": [
+    "tenure_month",
+    "avg_usage_m3_6m",
+    "bill_avg_6m",
+    "bill_shock_pct",
+    "late_payment_6m",
+    "complaint_3m",
+    "resolution_days_avg",
+    "complaint_per_year",
+    "late_payment_per_year",
+    "bill_shock_x_declining"
+  ],
+  "categorical_features": [
+    "segment",
+    "contract_status",
+    "usage_trend",
+    "has_competitor",
+    "City",
+    "State/Prov"
+  ],
+  "used_contract_status": true,
+  "used_location_features": true,
+  "hybrid_weights": [
+    1,
+    5
+  ],
+  "hybrid_smote_ratio": 1.0,
+  "preprocessor_location_policy": "Cross-fitted TargetEncoder or OneHotEncoder chosen by CV on TRAIN only",
+  "final_test_reused_for_iterative_comparison": true,
+  "cv_folds": 5,
+  "tuning_iterations": 32,
+  "tuning_objective": "Accuracy",
+  "min_validation_recall": 0.25,
+  "seed": 42,
+  "cautions": [
+    "contract_status is included in all primary models. Terminated can reflect churn that already occurred; metrics are not evidence of prospective prediction without timestamp verification.",
+    "Probabilities uncalibrated; SHAP is not causal.",
+    "Model training uses SMOTE-Tomek only on training data.",
+    "Risk HIGH/LOW is a relabeling of binary Churn Yes/No, not an independent risk segmentation.",
+    "SMOTE after one-hot encoding may interpolate categorical dummy variables.",
+    "Test split has been examined in prior notebook, so this is not a fully blind final test.",
+    "Accuracy target 85 percent is aspirational; do not report without measured evidence."
+  ]
+}

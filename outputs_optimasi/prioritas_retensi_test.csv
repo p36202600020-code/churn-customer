@@ -1,0 +1,363 @@
+Cust. ID,complaint_3m,bill_shock_pct,contract_status,prob_churn,prediksi_churn,risk_level,rekomendasi
+124917,0,43.59,Terminated,0.9981881,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+117388,0,-7.2,Terminated,0.99816763,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+124973,1,47.79,Terminated,0.99804926,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+125065,0,26.51,Terminated,0.9979862,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+165141,1,37.65,Terminated,0.99798226,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+120929,0,47.35,Terminated,0.9979785,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+125206,0,-5.98,Terminated,0.9979493,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+128305,0,-13.68,Terminated,0.9979138,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+113559,0,40.81,Terminated,0.9978988,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+165131,0,5.58,Terminated,0.9977737,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118929,0,31.3,Terminated,0.9976839,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+123982,2,-1.18,Terminated,0.9973544,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+108803,0,39.45,Terminated,0.99726176,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+108758,0,32.29,Terminated,0.9972223,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+189737,1,25.81,Terminated,0.99718565,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109947,0,23.5,Terminated,0.99710876,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+124909,0,2.59,Terminated,0.9969506,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118886,1,13.77,Terminated,0.99693143,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109225,1,-0.81,Terminated,0.99688727,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+181347,0,-3.74,Terminated,0.99674964,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+125048,0,23.18,Terminated,0.99669445,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+127668,0,37.08,Terminated,0.9966492,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+135333,0,-4.03,Terminated,0.99657476,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+114282,1,-7.91,Terminated,0.99649894,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109966,0,-8.17,Terminated,0.9964959,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+135743,0,6.08,Terminated,0.99645305,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+142634,3,12.6,Terminated,0.99644864,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+110564,0,33.28,Terminated,0.9964218,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109935,0,-8.12,Terminated,0.99635005,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+107662,1,49.34,Terminated,0.9963129,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+102912,0,-11.15,Terminated,0.996229,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+101403,2,-12.12,Terminated,0.9961809,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+111485,0,-11.42,Terminated,0.9961026,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+168201,0,28.53,Terminated,0.99609935,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+139773,0,21.04,Terminated,0.9960748,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+125059,2,-1.02,Terminated,0.9960288,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+123094,0,-10.59,Terminated,0.9959449,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118925,0,40.41,Terminated,0.99589795,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+189000,0,46.48,Terminated,0.995846,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+113929,0,8.42,Terminated,0.9958253,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+165138,0,15.14,Terminated,0.99577516,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+162864,0,-2.08,Terminated,0.9956274,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+111752,0,19.73,Terminated,0.99550617,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+123978,0,41.75,Terminated,0.99539316,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+102887,0,-3.53,Terminated,0.99538887,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+104057,0,2.17,Terminated,0.99535465,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+165000,1,14.34,Terminated,0.9952543,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+103368,0,8.12,Terminated,0.9952289,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+125055,0,8.07,Terminated,0.99507684,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109946,0,38.57,Terminated,0.99504036,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+145462,1,-1.11,Terminated,0.9950022,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+163418,0,28.61,Terminated,0.9949452,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+185440,0,42.65,Terminated,0.99481577,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+132818,0,23.12,Terminated,0.9948106,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118927,0,49.93,Terminated,0.9948025,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+106137,0,30.41,Terminated,0.9945592,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+124929,0,23.13,Terminated,0.99453354,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+142951,0,0.7,Terminated,0.9944478,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+117082,0,-8.45,Terminated,0.99438006,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+104055,0,-10.53,Terminated,0.9943447,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+124937,0,5.21,Terminated,0.9942509,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+109949,0,-4.51,Terminated,0.9942101,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+151639,1,6.92,Terminated,0.9941117,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+105344,0,-14.13,Terminated,0.9940713,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+106380,0,39.69,Terminated,0.99404234,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+119022,0,-0.2,Terminated,0.993916,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+172979,0,-12.44,Terminated,0.99390936,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+101500,0,21.41,Terminated,0.99390054,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+149057,0,27.38,Terminated,0.993881,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+136654,0,16.92,Terminated,0.9938605,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+128500,1,49.14,Terminated,0.9938192,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+158898,2,0.49,Terminated,0.9936605,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+148946,1,26.4,Terminated,0.9933856,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+105034,0,47.2,Terminated,0.9932741,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+114064,1,5.59,Terminated,0.99323046,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+110040,0,5.65,Terminated,0.9930224,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+115703,1,13.26,Terminated,0.9929563,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+114953,0,-4.94,Terminated,0.99290496,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+123428,0,16.29,Terminated,0.99268335,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118930,0,3.85,Terminated,0.99268216,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+161750,0,25.04,Terminated,0.9926515,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+177067,0,21.25,Terminated,0.99260485,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+113255,0,35.61,Terminated,0.9925039,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+137485,0,11.36,Terminated,0.9923057,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+103593,1,37.57,Terminated,0.9921634,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+102889,0,14.92,Terminated,0.9921302,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+110312,0,-4.01,Terminated,0.9905212,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+123989,0,24.63,Terminated,0.9895119,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+136257,1,35.55,Expiring Soon,0.9693898,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+161213,0,33.49,Under Renewal,0.84962744,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+118891,0,45.28,Under Renewal,0.7308127,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+161544,2,44.53,Active,0.6322757,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+124687,0,31.56,Active,0.533167,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+146028,1,31.99,Expiring Soon,0.510724,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+141658,2,46.26,Active,0.49170157,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+141526,2,36.68,Active,0.4239791,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+137061,0,38.66,Active,0.42097154,Yes,HIGH RISK,Rekomendasi: Service Recovery - Telepon dalam 24 jam
+141321,2,32.67,Active,0.31530908,No,LOW RISK,Aman
+166717,2,39.37,Active,0.25208068,No,LOW RISK,Aman
+171127,0,30.59,Under Renewal,0.24313994,No,LOW RISK,Aman
+107242,0,-7.43,Expiring Soon,0.24303788,No,LOW RISK,Aman
+189922,0,13.39,Active,0.2335755,No,LOW RISK,Aman
+129394,2,36.94,Active,0.22722256,No,LOW RISK,Aman
+167880,0,17.91,Expiring Soon,0.22155234,No,LOW RISK,Aman
+130171,3,30.83,Expiring Soon,0.2213465,No,LOW RISK,Aman
+161550,3,19.34,Under Renewal,0.2103,No,LOW RISK,Aman
+108651,1,40.57,Under Renewal,0.19654547,No,LOW RISK,Aman
+182343,3,30.24,Active,0.18959865,No,LOW RISK,Aman
+152998,1,32.5,Expiring Soon,0.18104273,No,LOW RISK,Aman
+163820,1,31.43,Expiring Soon,0.17759503,No,LOW RISK,Aman
+160127,0,1.36,Expiring Soon,0.16255905,No,LOW RISK,Aman
+188601,1,28.48,Active,0.15877245,No,LOW RISK,Aman
+180421,0,43.04,Active,0.15724158,No,LOW RISK,Aman
+177829,3,13.71,Active,0.14373842,No,LOW RISK,Aman
+138633,2,-8.48,Active,0.1415438,No,LOW RISK,Aman
+181917,2,21.77,Active,0.13731396,No,LOW RISK,Aman
+163695,3,-9.7,Expiring Soon,0.13695906,No,LOW RISK,Aman
+180884,3,-5.12,Expiring Soon,0.13444555,No,LOW RISK,Aman
+180239,0,2.19,Expiring Soon,0.12853724,No,LOW RISK,Aman
+184258,0,44.97,Active,0.121398486,No,LOW RISK,Aman
+174643,0,3.0,Expiring Soon,0.12090308,No,LOW RISK,Aman
+144638,3,25.18,Expiring Soon,0.12002129,No,LOW RISK,Aman
+188566,2,1.13,Active,0.11948832,No,LOW RISK,Aman
+141181,2,42.46,Active,0.11287835,No,LOW RISK,Aman
+140940,2,22.59,Active,0.110956505,No,LOW RISK,Aman
+174606,0,22.15,Expiring Soon,0.10455863,No,LOW RISK,Aman
+161012,0,-12.79,Expiring Soon,0.092040196,No,LOW RISK,Aman
+172224,3,4.35,Expiring Soon,0.0862066,No,LOW RISK,Aman
+159800,2,-6.27,Under Renewal,0.08559126,No,LOW RISK,Aman
+159683,0,-5.12,Expiring Soon,0.08071549,No,LOW RISK,Aman
+142864,0,31.51,Expiring Soon,0.079209924,No,LOW RISK,Aman
+166785,0,40.42,Under Renewal,0.07569371,No,LOW RISK,Aman
+171737,0,40.63,Expiring Soon,0.07069531,No,LOW RISK,Aman
+190961,0,47.18,Expiring Soon,0.06972326,No,LOW RISK,Aman
+166230,0,34.46,Expiring Soon,0.06795054,No,LOW RISK,Aman
+157528,0,30.18,Active,0.067814596,No,LOW RISK,Aman
+138779,0,47.32,Expiring Soon,0.06581631,No,LOW RISK,Aman
+138752,0,-7.85,Expiring Soon,0.065191,No,LOW RISK,Aman
+161825,2,10.43,Under Renewal,0.0610369,No,LOW RISK,Aman
+161859,1,45.47,Active,0.057646062,No,LOW RISK,Aman
+165147,0,-0.5,Expiring Soon,0.056418788,No,LOW RISK,Aman
+178460,0,-6.17,Expiring Soon,0.05453351,No,LOW RISK,Aman
+120521,0,32.5,Expiring Soon,0.053119574,No,LOW RISK,Aman
+113447,0,-4.11,Under Renewal,0.049181156,No,LOW RISK,Aman
+103690,0,-14.2,Expiring Soon,0.049044073,No,LOW RISK,Aman
+162179,0,-2.99,Expiring Soon,0.048777647,No,LOW RISK,Aman
+121314,0,39.73,Active,0.047127873,No,LOW RISK,Aman
+112413,0,49.76,Expiring Soon,0.04659787,No,LOW RISK,Aman
+161966,0,21.93,Expiring Soon,0.044400193,No,LOW RISK,Aman
+129271,1,22.68,Expiring Soon,0.044307563,No,LOW RISK,Aman
+161149,0,25.56,Expiring Soon,0.04285408,No,LOW RISK,Aman
+170618,0,16.71,Active,0.041532915,No,LOW RISK,Aman
+187905,0,-14.12,Expiring Soon,0.040887628,No,LOW RISK,Aman
+180336,0,15.03,Active,0.040764187,No,LOW RISK,Aman
+124227,0,42.16,Active,0.040499944,No,LOW RISK,Aman
+144983,0,46.0,Under Renewal,0.0344378,No,LOW RISK,Aman
+135670,1,-14.28,Active,0.03369686,No,LOW RISK,Aman
+161901,0,46.16,Expiring Soon,0.033192437,No,LOW RISK,Aman
+183249,1,-12.66,Expiring Soon,0.032614965,No,LOW RISK,Aman
+152584,0,0.4,Expiring Soon,0.031199351,No,LOW RISK,Aman
+188782,0,18.32,Expiring Soon,0.030194914,No,LOW RISK,Aman
+163457,0,7.1,Expiring Soon,0.02909304,No,LOW RISK,Aman
+170513,1,12.84,Expiring Soon,0.028838476,No,LOW RISK,Aman
+147402,0,39.34,Active,0.028111147,No,LOW RISK,Aman
+189368,1,36.86,Active,0.026356667,No,LOW RISK,Aman
+173510,1,28.24,Active,0.025737442,No,LOW RISK,Aman
+203323,0,18.79,Active,0.0243728,No,LOW RISK,Aman
+143246,3,14.98,Active,0.023471026,No,LOW RISK,Aman
+143717,0,-7.03,Expiring Soon,0.022303434,No,LOW RISK,Aman
+164292,0,29.85,Active,0.02228086,No,LOW RISK,Aman
+121313,3,21.56,Under Renewal,0.02199,No,LOW RISK,Aman
+168791,3,4.58,Under Renewal,0.021460464,No,LOW RISK,Aman
+161902,1,22.14,Active,0.019324627,No,LOW RISK,Aman
+163409,0,44.12,Active,0.019228248,No,LOW RISK,Aman
+186847,1,41.97,Active,0.01886316,No,LOW RISK,Aman
+187248,0,5.79,Expiring Soon,0.018028578,No,LOW RISK,Aman
+166318,0,14.35,Expiring Soon,0.017910784,No,LOW RISK,Aman
+124518,0,49.26,Active,0.017502062,No,LOW RISK,Aman
+152574,2,7.51,Active,0.01749615,No,LOW RISK,Aman
+139102,2,43.53,Active,0.017245872,No,LOW RISK,Aman
+158222,1,24.91,Active,0.016884493,No,LOW RISK,Aman
+175912,0,38.9,Under Renewal,0.015831165,No,LOW RISK,Aman
+166682,0,5.97,Active,0.01581016,No,LOW RISK,Aman
+179006,0,32.41,Under Renewal,0.015621313,No,LOW RISK,Aman
+160834,1,20.05,Expiring Soon,0.015615655,No,LOW RISK,Aman
+144982,2,-5.05,Active,0.0152638815,No,LOW RISK,Aman
+136144,1,18.55,Active,0.01481962,No,LOW RISK,Aman
+184055,0,41.16,Under Renewal,0.014397655,No,LOW RISK,Aman
+161479,1,37.34,Active,0.014235093,No,LOW RISK,Aman
+166530,3,-9.96,Active,0.01419641,No,LOW RISK,Aman
+109288,1,43.22,Active,0.014002645,No,LOW RISK,Aman
+157395,2,1.27,Active,0.01335298,No,LOW RISK,Aman
+121900,3,9.2,Active,0.012983207,No,LOW RISK,Aman
+137740,3,26.4,Active,0.0129406005,No,LOW RISK,Aman
+181431,0,11.77,Expiring Soon,0.012931424,No,LOW RISK,Aman
+180162,2,0.38,Active,0.012443283,No,LOW RISK,Aman
+146421,0,29.59,Active,0.012362988,No,LOW RISK,Aman
+124217,0,-3.92,Under Renewal,0.012001163,No,LOW RISK,Aman
+187907,3,-6.21,Active,0.011054516,No,LOW RISK,Aman
+168192,2,29.16,Active,0.010994023,No,LOW RISK,Aman
+137057,3,20.42,Active,0.01071252,No,LOW RISK,Aman
+181748,2,6.7,Active,0.010594364,No,LOW RISK,Aman
+121042,0,24.25,Under Renewal,0.01050845,No,LOW RISK,Aman
+108882,0,8.7,Active,0.010277906,No,LOW RISK,Aman
+118950,1,37.09,Active,0.010104758,No,LOW RISK,Aman
+163372,0,19.69,Active,0.0100566065,No,LOW RISK,Aman
+132823,1,47.17,Under Renewal,0.010003979,No,LOW RISK,Aman
+183341,0,-3.47,Active,0.009773012,No,LOW RISK,Aman
+180287,0,-14.32,Active,0.00950348,No,LOW RISK,Aman
+186878,0,17.57,Under Renewal,0.009376817,No,LOW RISK,Aman
+105486,0,21.6,Active,0.009304574,No,LOW RISK,Aman
+146458,0,45.69,Active,0.008907358,No,LOW RISK,Aman
+190032,2,34.57,Active,0.008804618,No,LOW RISK,Aman
+168384,0,2.47,Active,0.008766222,No,LOW RISK,Aman
+168904,0,21.77,Active,0.008716694,No,LOW RISK,Aman
+189326,0,3.92,Active,0.008695171,No,LOW RISK,Aman
+177624,1,40.82,Under Renewal,0.008465633,No,LOW RISK,Aman
+138253,1,-4.54,Active,0.008448363,No,LOW RISK,Aman
+161478,0,-5.59,Active,0.00826415,No,LOW RISK,Aman
+189505,0,-5.42,Active,0.008243123,No,LOW RISK,Aman
+131559,0,35.11,Active,0.008197193,No,LOW RISK,Aman
+168943,0,2.67,Active,0.00812921,No,LOW RISK,Aman
+172432,2,-0.26,Active,0.008060698,No,LOW RISK,Aman
+140663,0,42.66,Under Renewal,0.008001143,No,LOW RISK,Aman
+181061,1,10.89,Under Renewal,0.00791289,No,LOW RISK,Aman
+144670,0,24.54,Active,0.007872266,No,LOW RISK,Aman
+179037,0,32.51,Active,0.007423656,No,LOW RISK,Aman
+140258,1,1.95,Active,0.0074037607,No,LOW RISK,Aman
+144671,0,43.58,Active,0.0073687057,No,LOW RISK,Aman
+170299,0,23.0,Active,0.0071469094,No,LOW RISK,Aman
+160097,0,29.41,Active,0.006625682,No,LOW RISK,Aman
+144677,0,43.52,Active,0.006377878,No,LOW RISK,Aman
+168839,1,5.07,Active,0.0062708687,No,LOW RISK,Aman
+169295,0,7.2,Active,0.00598103,No,LOW RISK,Aman
+141709,0,-0.96,Active,0.0059217648,No,LOW RISK,Aman
+106442,0,-6.88,Active,0.005793349,No,LOW RISK,Aman
+138222,0,2.36,Active,0.005747603,No,LOW RISK,Aman
+147661,0,3.14,Active,0.005706451,No,LOW RISK,Aman
+148730,0,14.2,Under Renewal,0.0057035787,No,LOW RISK,Aman
+146382,0,31.75,Active,0.0056692255,No,LOW RISK,Aman
+183443,0,6.61,Active,0.00514624,No,LOW RISK,Aman
+120643,0,41.3,Active,0.0050480524,No,LOW RISK,Aman
+109456,0,49.71,Active,0.0050164927,No,LOW RISK,Aman
+127824,0,37.99,Active,0.0049231504,No,LOW RISK,Aman
+178352,1,47.75,Active,0.0048498954,No,LOW RISK,Aman
+142581,1,8.89,Active,0.004714864,No,LOW RISK,Aman
+189945,0,14.27,Under Renewal,0.0045757596,No,LOW RISK,Aman
+101784,1,-0.74,Under Renewal,0.0045533096,No,LOW RISK,Aman
+181060,0,-5.75,Active,0.0045397202,No,LOW RISK,Aman
+169053,0,14.64,Active,0.004439656,No,LOW RISK,Aman
+153466,1,9.5,Under Renewal,0.004425026,No,LOW RISK,Aman
+153476,0,9.86,Active,0.0044075223,No,LOW RISK,Aman
+174478,0,26.71,Active,0.0043874015,No,LOW RISK,Aman
+166181,0,22.68,Active,0.004342551,No,LOW RISK,Aman
+108497,0,-9.01,Active,0.004289051,No,LOW RISK,Aman
+179708,0,1.43,Active,0.0041465117,No,LOW RISK,Aman
+167008,0,15.87,Active,0.0040260754,No,LOW RISK,Aman
+158379,0,26.07,Active,0.0039139255,No,LOW RISK,Aman
+157893,1,27.37,Active,0.0038937444,No,LOW RISK,Aman
+188792,0,40.84,Active,0.0038648099,No,LOW RISK,Aman
+176916,0,15.3,Active,0.0037366876,No,LOW RISK,Aman
+177465,1,48.74,Active,0.0036502734,No,LOW RISK,Aman
+190474,0,-11.22,Active,0.003637419,No,LOW RISK,Aman
+162380,0,-0.26,Active,0.0035655433,No,LOW RISK,Aman
+123971,0,-7.58,Active,0.003505052,No,LOW RISK,Aman
+135823,0,20.59,Active,0.0034801962,No,LOW RISK,Aman
+160783,0,-12.36,Active,0.0034650927,No,LOW RISK,Aman
+145830,0,25.11,Active,0.0032775467,No,LOW RISK,Aman
+146059,0,34.95,Active,0.0032713388,No,LOW RISK,Aman
+175979,0,0.92,Active,0.0031947691,No,LOW RISK,Aman
+171197,0,38.5,Active,0.003165725,No,LOW RISK,Aman
+189647,1,16.29,Active,0.0031501392,No,LOW RISK,Aman
+148008,1,18.09,Active,0.003031747,No,LOW RISK,Aman
+203955,0,16.5,Active,0.0029166914,No,LOW RISK,Aman
+143972,1,12.01,Active,0.00291145,No,LOW RISK,Aman
+107666,0,44.16,Active,0.0028774175,No,LOW RISK,Aman
+146301,0,35.68,Active,0.0028481283,No,LOW RISK,Aman
+169363,0,12.11,Active,0.0027811404,No,LOW RISK,Aman
+178475,1,15.78,Active,0.0027800405,No,LOW RISK,Aman
+141411,0,-2.67,Active,0.0027775695,No,LOW RISK,Aman
+153467,0,22.42,Active,0.0027318187,No,LOW RISK,Aman
+176131,0,9.33,Active,0.0027230047,No,LOW RISK,Aman
+180453,0,45.7,Active,0.0026791529,No,LOW RISK,Aman
+157996,0,43.06,Active,0.0026757456,No,LOW RISK,Aman
+179424,0,26.38,Active,0.0026748334,No,LOW RISK,Aman
+173674,0,19.76,Active,0.002578081,No,LOW RISK,Aman
+168230,1,-11.19,Active,0.0025262404,No,LOW RISK,Aman
+146639,1,-3.12,Active,0.0025217491,No,LOW RISK,Aman
+186318,0,5.8,Active,0.002371014,No,LOW RISK,Aman
+179446,0,9.09,Active,0.0022480364,No,LOW RISK,Aman
+137642,0,40.26,Active,0.0022431007,No,LOW RISK,Aman
+188141,0,30.87,Active,0.0022079926,No,LOW RISK,Aman
+176784,0,7.9,Active,0.0021540811,No,LOW RISK,Aman
+140312,0,-13.58,Active,0.0021371963,No,LOW RISK,Aman
+144673,1,13.88,Active,0.0021369704,No,LOW RISK,Aman
+152926,0,9.22,Active,0.00211468,No,LOW RISK,Aman
+107410,0,9.14,Active,0.00211468,No,LOW RISK,Aman
+143492,0,35.76,Active,0.002106103,No,LOW RISK,Aman
+166172,0,1.25,Active,0.0020619752,No,LOW RISK,Aman
+139993,0,10.37,Active,0.0020404079,No,LOW RISK,Aman
+144984,0,26.16,Active,0.0020319896,No,LOW RISK,Aman
+183489,0,-13.32,Active,0.0020282539,No,LOW RISK,Aman
+185170,1,-8.36,Active,0.0019731103,No,LOW RISK,Aman
+165130,1,46.63,Active,0.0019366643,No,LOW RISK,Aman
+169338,0,18.25,Active,0.0018968417,No,LOW RISK,Aman
+190883,0,-1.88,Active,0.0018950558,No,LOW RISK,Aman
+160265,1,5.85,Active,0.0018943191,No,LOW RISK,Aman
+168553,0,24.41,Active,0.0018876798,No,LOW RISK,Aman
+114628,0,0.92,Active,0.0018708871,No,LOW RISK,Aman
+164679,0,47.47,Active,0.0018663779,No,LOW RISK,Aman
+174671,0,38.34,Active,0.0018609813,No,LOW RISK,Aman
+106969,0,-9.71,Active,0.0018575497,No,LOW RISK,Aman
+142619,0,20.79,Active,0.0018472687,No,LOW RISK,Aman
+189073,0,26.07,Active,0.0018402281,No,LOW RISK,Aman
+177781,0,44.68,Active,0.0018250785,No,LOW RISK,Aman
+171485,0,-8.7,Active,0.0018125983,No,LOW RISK,Aman
+170467,0,-1.55,Active,0.0017588983,No,LOW RISK,Aman
+163743,0,-11.51,Active,0.0017563582,No,LOW RISK,Aman
+128088,0,-9.03,Active,0.0017108129,No,LOW RISK,Aman
+141619,1,35.35,Active,0.0016937805,No,LOW RISK,Aman
+190439,0,-6.26,Active,0.0016781074,No,LOW RISK,Aman
+135236,0,43.96,Active,0.0016126843,No,LOW RISK,Aman
+187879,0,-1.35,Active,0.0015745629,No,LOW RISK,Aman
+167215,0,26.9,Active,0.001546217,No,LOW RISK,Aman
+160394,0,45.57,Active,0.0015420744,No,LOW RISK,Aman
+188767,0,4.73,Active,0.0015077902,No,LOW RISK,Aman
+100006,0,-11.12,Active,0.001452539,No,LOW RISK,Aman
+189143,0,24.53,Active,0.0014184134,No,LOW RISK,Aman
+109940,0,-14.93,Active,0.0013657965,No,LOW RISK,Aman
+187162,0,6.14,Active,0.0013570356,No,LOW RISK,Aman
+156990,0,-0.45,Active,0.0013318863,No,LOW RISK,Aman
+189958,0,17.91,Active,0.001328803,No,LOW RISK,Aman
+186917,0,12.21,Active,0.001273597,No,LOW RISK,Aman
+161909,1,-8.99,Active,0.0012409012,No,LOW RISK,Aman
+184724,0,-12.84,Active,0.0012342487,No,LOW RISK,Aman
+111275,0,24.14,Active,0.001232375,No,LOW RISK,Aman
+174152,1,14.01,Active,0.00122827,No,LOW RISK,Aman
+148089,1,-10.9,Active,0.0011861535,No,LOW RISK,Aman
+176669,0,8.68,Active,0.0011733543,No,LOW RISK,Aman
+142791,0,22.49,Active,0.0011645178,No,LOW RISK,Aman
+175579,1,-2.4,Active,0.0011518729,No,LOW RISK,Aman
+141414,0,-9.55,Active,0.0011254621,No,LOW RISK,Aman
+147628,0,24.53,Active,0.0010741252,No,LOW RISK,Aman
+119296,0,28.28,Active,0.0010619436,No,LOW RISK,Aman
+152598,0,12.4,Active,0.0010566381,No,LOW RISK,Aman
+150810,1,6.41,Active,0.0010528624,No,LOW RISK,Aman
+154181,0,4.75,Active,0.0010385638,No,LOW RISK,Aman
+132824,0,-12.12,Active,0.0010234592,No,LOW RISK,Aman
+148737,0,21.95,Active,0.0010221404,No,LOW RISK,Aman
+107517,1,2.06,Active,0.0010096096,No,LOW RISK,Aman
+149187,0,-0.71,Active,0.0010016208,No,LOW RISK,Aman
+141563,0,-3.07,Active,0.000996367,No,LOW RISK,Aman
+188776,0,-4.36,Active,0.0009963409,No,LOW RISK,Aman
+132428,0,22.74,Active,0.0009963395,No,LOW RISK,Aman
+184597,0,-14.93,Active,0.0009783122,No,LOW RISK,Aman
+148326,0,1.81,Active,0.00097336335,No,LOW RISK,Aman
+185495,0,-3.46,Active,0.00095588673,No,LOW RISK,Aman
+189740,0,10.45,Active,0.000903808,No,LOW RISK,Aman
+167578,0,18.02,Active,0.0008862523,No,LOW RISK,Aman
+147535,1,-14.63,Active,0.0008808886,No,LOW RISK,Aman
+177699,0,13.51,Active,0.00087386795,No,LOW RISK,Aman
+168741,0,25.13,Active,0.0008132899,No,LOW RISK,Aman

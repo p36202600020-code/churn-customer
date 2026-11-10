@@ -1,0 +1,12 @@
+# Paket inti untuk notebook Jupyter lokal di VS Code
+ipykernel>=6.29
+numpy>=1.26,<3
+pandas>=2.1,<3
+openpyxl>=3.1
+scikit-learn>=1.4,<1.9
+imbalanced-learn>=0.12,<0.16
+xgboost>=2.0,<4
+shap>=0.45,<0.52
+matplotlib>=3.7,<4
+seaborn>=0.13,<0.15
+joblib>=1.3
